@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": ["logsmith/Cargo.toml"],
+    "[rust]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+    "rust-analyzer.check.command": "clippy"
+}
